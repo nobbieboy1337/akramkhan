@@ -10,3 +10,8 @@
                                           🌎 Somewhere in between mars and jupiter & Digital Nomad.
                                           📩 DM @nobbieboy_1337 
 
+
+## GitHub Stats
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=daffainfo&theme=onedark&no-frame=true&column=7" />
+</p>
